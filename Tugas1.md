@@ -15,7 +15,7 @@
 ## PENDAHULUAN
 
 **Tujuan:**  
-Melihat bagaimana pentingnya visualisasi data dalam kehidupan sekarang terkhusus dalam dunia bisnis, perlu dilakukan studi tentang cara mencapai pengetahuan berbasis data terbaik. Penelitian ini bertujuan untuk mengetahui teknik-teknik dalam membuat visualisasi data agar menjadi lebih efisien dan efektif, terutama dalam menangani data yang besar dan kompleks dengan metode survei literatur.
+pentingnya memahami dan melihat visualisasi data dalam kehidupan zaman sekarang khususnya dalam bidang bisnis, pengetahuan studi berbasis data perlu dilakukan pemahaman yang mendalam agar mencapai tujuan yang terbaik. Penelitian ini sebenarnya bertujuan agar menjadi lebih efisien dan efektif dalam membuat visualisasi data dengan teknik-teknik tertentu, metode survei literatur adalah metode yang terutama menangani data yang besar dan kompleks.
 
 ## HASIL
 
@@ -43,7 +43,7 @@ Beberapa rekomendasi untuk visualisasi:
 
 ## KESIMPULAN
 
-Penulis menyimpulkan bahwa ada berbagai teknik yang tersedia untuk membuat visualisasi data lebih efisien dan efektif, tetapi masih ada tantangan dalam mengintegrasikan teknik-teknik ini secara optimal dalam sistem visualisasi yang ada.
+Penulis menyimpulkan bahwa untuk membuat visualisasi data efisien dan efektif ada berbagai macam teknik yang tersedia, tetapi masih ada tantangan dalam mengintegrasi teknik-teknik ini secara optimal dalam sistem visualisasi yang ada sehingga nantinya akan muncul masalah-masalah yang baru.
 
 ## HASIL REVIEW
 
