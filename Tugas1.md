@@ -1,9 +1,11 @@
+# TUGAS PERTEMUAN KEDUA MATA KULIAH VISUALISASI DATA DAN INFORMASI
 
-# REVIEW PAPER
+## **REVIEW PAPER**
+## Biodata
+Nama: Feyadi Yulius\
+NIM: 122450087\
+Kelas: RC
 
-**Nama:** Feryadi Yulius  
-**NIM:** 12245007  
-**Kelas:** RC  
 
 ## INFORMASI
 
